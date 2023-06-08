@@ -1,0 +1,20 @@
+.mensaje {
+    color: green
+}
+header {
+    color: blue; 
+    text-align: center;
+    margin-left: 500px;
+   
+}
+footer {
+    color: blueviolet;
+    text-align: center;
+    margin-left: 500px;
+}
+h1 {
+    color: green;
+    text-align: center;
+    margin-left: 500px;
+    
+}
